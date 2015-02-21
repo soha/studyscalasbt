@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.treasuredata:td-logger:0.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.treasuredata/td-logger/jars/td-logger-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.treasuredata/td-logger/docs/td-logger-0.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.treasuredata/td-logger/srcs/td-logger-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
